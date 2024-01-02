@@ -1,5 +1,5 @@
 ### Hi Ttunay 👋
-<img src="/img/d.png"></img>
+<img src="/img/suck.png"></img>
 
 <!--
 **Ttunay/Ttunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
