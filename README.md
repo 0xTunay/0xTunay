@@ -1,18 +1,28 @@
-### Hi Ttunay 👋
-<img src="/img/suck.png"></img>
 
-<!--
-**Ttunay/Ttunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```css
+┌[heapbytes@git]-(~)
+└> mefetch
+```
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...![Uploading Снимок экрана от 2023-12-16 16-42-01.png…]()
+<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
+  
+  ```css
+  Ttunay@GitHub
+  -----------------
+  Name: Tunay
+  OS: Vitunix x86_64
+  Languages: [, "C","JavaScript"]
+  Intrests: ["Linux", "Desktop"]  
+  Uptime: 6 Years
+  ```
+</div>
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
