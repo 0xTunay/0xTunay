@@ -12,8 +12,8 @@
   Ttunay@GitHub
   -----------------
   Name: Tunay
-  OS: Vitunix x86_64
-  Languages: [, "C","JavaScript"]
+  OS: ArchLinux x86_64
+  Languages: ["C","JavaScript"]
   Intrests: ["Linux", "Desktop"]  
   Uptime: 6 Years
   ```
