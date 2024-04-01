@@ -13,6 +13,7 @@
   -----------------
   Name: Tunay
   OS: ArchLinux x86_64
+  DE: Hyprland 
   Languages: ["C","JavaScript"]
   Intrests: ["Linux", "Desktop"]  
   Uptime: 6 Years
