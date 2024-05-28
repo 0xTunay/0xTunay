@@ -16,7 +16,7 @@
   DE: Hyprland 
   Languages: ["C","JavaScript"]
   Intrests: ["Linux", "Desktop"]  
-  Uptime: 6 Years
+  Uptime: 2 Years
   ```
 </div>
 
