@@ -13,7 +13,7 @@
   -----------------
   Name: Tunay
   OS: ArchLinux x86_64
-  DE: Hyprland 
+  DE: KDE Plasma
   Languages: ["C","JavaScript"]
   Intrests: ["Linux", "Desktop"]  
   Uptime: 2 Years
