@@ -14,7 +14,7 @@
   Name: Tunay
   OS: ArchLinux x86_64
   DE: i3
-  Languages: ["C","JavaScript"]
+  Languages: ["C"]
   Intrests: ["Linux", "Desktop"]  
   Uptime: 2 Years
   ```
