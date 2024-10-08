@@ -1,4 +1,4 @@
-
+<hr>
 
 ```css
 ┌[Tunay@git]-(~)
@@ -20,11 +20,8 @@
   ```
 </div>
 
-<hr>
 
 
 <i>"I will listen to the sound of you chortling on my balls."</i>
                                   – <b>Bertram Gilfoyle</b>
-
-
-
+<hr>
