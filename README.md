@@ -16,7 +16,6 @@
   DE: i3
   Languages: ["C"]
   Intrests: ["Linux", "Desktop"]  
-  Uptime: 2 Years
   ```
 </div>
 
