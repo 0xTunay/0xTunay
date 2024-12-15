@@ -12,7 +12,7 @@
   Ttunay@GitHub
   -----------------
   Name: Tunay
-  OS: ArchLinux x86_64 && MacOs ARM
+  OS: Gentoo x86_64 && MacOs ARM
   DE: i3
   Languages: ["C"]
   Intrests: ["Linux", "Desktop"]  
