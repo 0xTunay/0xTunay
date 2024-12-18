@@ -12,8 +12,8 @@
   Ttunay@GitHub
   -----------------
   Name: Tunay
-  OS: Gentoo x86_64 && MacOs ARM
-  DE: i3
+  OS: Arch x86_64 && MacOs ARM
+  DE: Hyprland
   Languages: ["C"]
   Intrests: ["Linux", "Desktop"]  
   ```
