@@ -13,9 +13,9 @@
   -----------------
   Name: Tunay
   OS: Arch x86_64 && MacOs ARM
-  DE: Hyprland
-  Languages: ["C"]
-  Intrests: ["Linux", "Desktop"]  
+  DE: Komaru
+  Languages: ["C","Kokoa"]
+  Intrests: ["Linux", "Desktop", "Komugi"]  
   ```
 </div>
 
