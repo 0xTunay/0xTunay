@@ -1,6 +1,5 @@
 
 ```css
-<hr>
 ┌[Tunay@git]-(~)
 └> mefetch
 ```
