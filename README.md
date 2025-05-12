@@ -14,9 +14,11 @@
   OS: Arch x86_64 && MacOs ARM
   DE: Hyprland
   Languages: ["?"]
-  Intrests: ["Linux", "Desktop",]  
+  Intrests: ["Linux", "Desktop",]
   
 "I will listen to the sound of you chortling on my balls."
                                   – Bertram Gilfoyle
 ```
 <hr>
+
+<a href = "">GitLab</a>
