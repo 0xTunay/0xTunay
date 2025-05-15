@@ -21,4 +21,4 @@
 ```
 <hr>
 
-<a href = "[www.gitlab.com/0xTunay](https://gitlab.com/0xTunay)">GitLab</a>
+<a href = "https://gitlab.com/0xTunay">GitLab</a>
