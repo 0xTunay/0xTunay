@@ -14,7 +14,7 @@
   OS: Arch x86_64 && MacOs ARM
   DE: Hyprland
   Languages: ["?"]
-  Intrests: ["Linux", "Desktop",]
+  Intrests: ["Linux", "Embedded",]
   
 ```
 <hr>
