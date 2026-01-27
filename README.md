@@ -21,4 +21,3 @@
 
 <a href = "https://gitlab.com/0xTunay">GitLab</a> 
 
-<a href = "https://0xtunay.github.io/">Happy Coding!!</a> 
